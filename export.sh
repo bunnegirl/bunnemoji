@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-LAYERS=$(xmlstarlet sel -t -v "//svg:g[@inkscape:groupmode = 'layer']/@id" bunne.svg)
+LAYERS=$(xmlstarlet sel -t -v "//svg:g[@inkscape:groupmode = 'layer']/@inkscape:label" bunne.svg)
 
 mkdir -p ./export/trimmed
 mkdir -p ./export/squared
