@@ -9,8 +9,10 @@ mkdir -p ./export/squared
 
 for emoji in $STATIC
 do
+    id=$(xmlstarlet sel -t -v "//svg:g[@inkscape:label = '$emoji']/@id" bunne.svg)
+
     # Export squared png
-    inkscape --export-id $emoji --export-filename=export/squared/$emoji.png --export-overwrite --export-id-only --export-area=-35:-35:291:291 bunne.svg
+    inkscape --export-id $id --export-filename=export/squared/$emoji.png --export-overwrite --export-id-only --export-area=-35:-35:291:291 bunne.svg
 
     # Export trimmed png
     convert export/squared/$emoji.png -coalesce -trim -layers TrimBounds ./export/trimmed/$emoji.png
