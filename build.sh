@@ -8,6 +8,7 @@ mkdir -p ./trimmed
 mkdir -p ./squared
 rm readme.md
 cp readme.tpl readme.md
+echo "" >> readme.md
 
 for emoji in $(sort <<<"${EMOJI[*]}")
 do

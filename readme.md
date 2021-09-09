@@ -8,7 +8,8 @@ you will find two versions of these emojis, trimmed which works well with discor
 ## the emoji
 
 | Emoji | Name |
-| --- | --- || <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunne.png"> | `:bunne:` |
+| --- | --- |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunne.png"> | `:bunne:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunneangry.png"> | `:bunneangry:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunneaww.png"> | `:bunneaww:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunnecomf.png"> | `:bunnecomf:` |
