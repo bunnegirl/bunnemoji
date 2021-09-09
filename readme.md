@@ -38,6 +38,37 @@ you will find two versions of these emojis, trimmed which works well with discor
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunne/squared/bunnethonk.png"> | `:bunnethonk:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunne/squared/bunneuwu.png"> | `:bunneuwu:` |
 
+### bunne classic theme
+
+| Emoji | Name |
+| --- | --- |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunnecl.png"> | `:bunnecl:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclangry.png"> | `:bunneclangry:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclaww.png"> | `:bunneclaww:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclawwheart.png"> | `:bunneclawwheart:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclcomf.png"> | `:bunneclcomf:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclcomfhappy.png"> | `:bunneclcomfhappy:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclcomfidle.png"> | `:bunneclcomfidle:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclcomfsleep.png"> | `:bunneclcomfsleep:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclcry.png"> | `:bunneclcry:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclgoogly.png"> | `:bunneclgoogly:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclgrumpy.png"> | `:bunneclgrumpy:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclhappy.png"> | `:bunneclhappy:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclheart.png"> | `:bunneclheart:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclhop.webp"> | `:bunneclhop:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclidle.png"> | `:bunneclidle:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclknife.png"> | `:bunneclknife:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclowo.png"> | `:bunneclowo:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclpile.png"> | `:bunneclpile:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclpileheart.png"> | `:bunneclpileheart:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclpilesleep.png"> | `:bunneclpilesleep:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclsad.png"> | `:bunneclsad:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclsleep.png"> | `:bunneclsleep:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclsmug.png"> | `:bunneclsmug:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclthink.png"> | `:bunneclthink:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunneclthonk.png"> | `:bunneclthonk:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/themes/bunneclassic/squared/bunnecluwu.png"> | `:bunnecluwu:` |
+
 ### warebunne theme
 
 | Emoji | Name |

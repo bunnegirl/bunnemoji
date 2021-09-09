@@ -2,14 +2,18 @@
 
 EMOJI_URL="https://github.com/bunnegirl/bunnemoji/blob/master"
 EMOJI=$(xmlstarlet sel -t -v "/svg:svg/svg:g[@inkscape:groupmode = 'layer']/@inkscape:label" ./bunne.svg)
+THEMES=./themes/*.sh
+LC_ALL=C
 
 rm readme.md
 cp readme.tpl readme.md
 echo "" >> readme.md
 
-for file in ./themes/*.css
+for file in $(sort <<<"${THEMES[*]}")
 do
-    theme=$(basename -s .css $file)
+    . $file
+
+    theme=$(basename -s .sh $file)
     temp_dir="./themes/$theme/tmp"
     squared_dir="./themes/$theme/squared"
     trimmed_dir="./themes/$theme/trimmed"
@@ -19,21 +23,21 @@ do
     mkdir -p $trimmed_dir
 
     echo ""
-    echo "exporting $theme theme"
+    echo "exporting $THEME_NAME theme"
     echo ""
 
     echo "" >> readme.md
-    echo "### $theme theme" >> readme.md
+    echo "### $THEME_NAME theme" >> readme.md
     echo "" >> readme.md
     echo "| Emoji | Name |" >> readme.md
     echo "| --- | --- |" >> readme.md
 
     # Copy the main svg with the current theme css
-    sed "s/@import url(themes\/bunne.css);/@import url(..\/..\/$theme.css);/" bunne.svg > $temp_dir/bunne.svg
+    sed "s/@import url(themes\/bunne.css);/@import url(..\/..\/$THEME_STYLES);/" bunne.svg > $temp_dir/bunne.svg
 
     for emoji in $(sort <<<"${EMOJI[*]}")
     do
-        themoji=$(echo $emoji | sed "s/^bunne/$theme/")
+        themoji=$(echo $emoji | sed "$THEME_RENAME")
 
         is_animated=$(xmlstarlet sel -t -v "boolean(/svg:svg/svg:g[@inkscape:label = '$emoji' and .//svg:g[@inkscape:groupmode = 'layer']])" ./bunne.svg)
 
