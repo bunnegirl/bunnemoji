@@ -6,6 +6,3 @@ you will find two versions of these emojis, trimmed which works well with discor
 
 
 ## the emoji
-
-| Emoji | Name |
-| --- | --- |
