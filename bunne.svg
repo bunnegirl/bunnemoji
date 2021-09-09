@@ -192,7 +192,7 @@
      inkscape:label="bunnepile"
      inkscape:groupmode="layer"
      id="bunnepile"
-     style="display:none">
+     style="display:inline">
     <g
        id="g29847">
       <g
@@ -285,7 +285,7 @@
      inkscape:label="bunnepilesleep"
      inkscape:groupmode="layer"
      id="g1154"
-     style="display:none">
+     style="display:inline">
     <g
        id="g29832">
       <g
@@ -393,7 +393,7 @@
      inkscape:label="bunnepileheart"
      inkscape:groupmode="layer"
      id="bunnepileheart"
-     style="display:none">
+     style="display:inline">
     <g
        id="g29492">
       <g
@@ -542,7 +542,7 @@
      inkscape:label="bunneangry"
      inkscape:groupmode="layer"
      id="bunneangry"
-     style="display:none">
+     style="display:inline">
     <g
        id="g29148">
       <use
@@ -589,7 +589,7 @@
      inkscape:label="bunneaww"
      inkscape:groupmode="layer"
      id="bunneaww"
-     style="display:none">
+     style="display:inline">
     <g
        id="g29140">
       <use
@@ -670,7 +670,7 @@
      inkscape:label="bunneawwheart"
      inkscape:groupmode="layer"
      id="g1163"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28804">
       <use
@@ -725,7 +725,7 @@
      inkscape:label="bunnecry"
      inkscape:groupmode="layer"
      id="bunnecry"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28466">
       <use
@@ -771,7 +771,7 @@
      inkscape:label="bunnegoogly"
      inkscape:groupmode="layer"
      id="bunnegoogly"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28456">
       <use
@@ -835,7 +835,7 @@
      inkscape:label="bunnegrumpy"
      inkscape:groupmode="layer"
      id="bunnegrumpy"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28445">
       <use
@@ -888,7 +888,7 @@
      inkscape:label="bunnehappy"
      inkscape:groupmode="layer"
      id="bunnehappy"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28434">
       <use
@@ -925,7 +925,7 @@
      inkscape:label="bunneheart"
      inkscape:groupmode="layer"
      id="bunneheart"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28420">
       <use
@@ -964,7 +964,7 @@
      inkscape:label="bunneidle"
      inkscape:groupmode="layer"
      id="bunneidle"
-     style="display:none">
+     style="display:inline">
     <g
        id="g28097">
       <use
@@ -1001,7 +1001,7 @@
      inkscape:label="bunneknife"
      inkscape:groupmode="layer"
      id="bunneknife"
-     style="display:none">
+     style="display:inline">
     <g
        id="g27776">
       <use
@@ -1090,7 +1090,7 @@
      inkscape:label="bunneowo"
      inkscape:groupmode="layer"
      id="bunneowo"
-     style="display:none">
+     style="display:inline">
     <g
        id="g27758">
       <use
@@ -1135,7 +1135,7 @@
      inkscape:label="bunnesad"
      inkscape:groupmode="layer"
      id="bunnesad"
-     style="display:none">
+     style="display:inline">
     <g
        id="g18297">
       <use
@@ -1190,7 +1190,7 @@
      inkscape:label="bunnesleep"
      inkscape:groupmode="layer"
      id="bunnesleep"
-     style="display:none">
+     style="display:inline">
     <g
        id="g27439">
       <g
@@ -1251,7 +1251,7 @@
      inkscape:label="bunnesmug"
      inkscape:groupmode="layer"
      id="bunnesmug"
-     style="display:none">
+     style="display:inline">
     <g
        id="g27114">
       <use
@@ -1305,7 +1305,7 @@
      inkscape:label="bunnethink"
      inkscape:groupmode="layer"
      id="bunnethink"
-     style="display:none">
+     style="display:inline">
     <g
        id="g26786">
       <use
@@ -1344,7 +1344,7 @@
      inkscape:label="bunnethonk"
      inkscape:groupmode="layer"
      id="bunnethonk"
-     style="display:none">
+     style="display:inline">
     <g
        id="g26465">
       <use
@@ -1405,7 +1405,7 @@
      inkscape:label="bunneuwu"
      inkscape:groupmode="layer"
      id="bunneuwu"
-     style="display:none">
+     style="display:inline">
     <g
        id="g10251">
       <use
@@ -1450,7 +1450,7 @@
      inkscape:label="bunnecomf"
      inkscape:groupmode="layer"
      id="bunnecomf"
-     style="display:none">
+     style="display:inline">
     <g
        id="g26144">
       <use
@@ -1504,7 +1504,7 @@
      inkscape:label="bunnecomfhappy"
      inkscape:groupmode="layer"
      id="bunnecomfhappy"
-     style="display:none">
+     style="display:inline">
     <g
        id="g25823">
       <use
@@ -1561,7 +1561,7 @@
      inkscape:label="bunnecomfsleep"
      inkscape:groupmode="layer"
      id="bunnecomfsleep"
-     style="display:none">
+     style="display:inline">
     <use
        x="0"
        y="0"
@@ -1626,7 +1626,7 @@
      inkscape:label="bunnecomfidle"
      inkscape:groupmode="layer"
      id="bunnecomfidle"
-     style="display:none">
+     style="display:inline">
     <use
        x="0"
        y="0"
@@ -1683,12 +1683,12 @@
      inkscape:label="bunnehop"
      inkscape:groupmode="layer"
      id="g1710"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer1"
        inkscape:label="bunnehop-frame1"
-       style="display:none;opacity:1">
+       style="display:inline;opacity:1">
       <g
          id="g5834"
          transform="rotate(34.658455,71.304782,42.167594)">
@@ -1722,7 +1722,7 @@
        inkscape:groupmode="layer"
        id="g1866"
        inkscape:label="bunnehop-frame2"
-       style="display:none;opacity:1">
+       style="display:inline;opacity:1">
       <use
          x="0"
          y="0"
@@ -1753,7 +1753,7 @@
        inkscape:groupmode="layer"
        id="g5799"
        inkscape:label="bunnehop-frame3"
-       style="display:none;opacity:1">
+       style="display:inline;opacity:1">
       <use
          x="0"
          y="0"
@@ -1768,7 +1768,7 @@
        inkscape:groupmode="layer"
        id="g6613"
        inkscape:label="bunnehop-frame4"
-       style="display:none;opacity:1">
+       style="display:inline;opacity:1">
       <use
          x="0"
          y="0"
