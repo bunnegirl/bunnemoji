@@ -20,13 +20,13 @@
   <style
      id="style1836">
 .body-fill {
-   fill:red;
+   fill: #733054;
 }
 .body-fill-inner {
    fill: #ffffff;
 }
 .body-stroke {
-   stroke: red;
+   stroke: #733054;
 }
 .body-stroke-inner {
    stroke: #ffffff;
@@ -44,13 +44,13 @@
 }
 
 .face-fill {
-   fill: green;
+   fill: #733054;
 }
 .face-fill-inner {
-   fill: pink;
+   fill: #ffffff;
 }
 .face-stroke {
-   stroke: orange;
+   stroke: #733054;
 }
 </style>
   <sodipodi:namedview
