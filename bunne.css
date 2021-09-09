@@ -1,0 +1,33 @@
+.body-fill {
+   fill: #733054;
+}
+.body-fill-inner {
+   fill: #ffffff;
+}
+.body-stroke {
+   stroke: #733054;
+}
+.body-stroke-inner {
+   stroke: #ffffff;
+}
+
+.blanket-fill {
+   fill: #764f69;
+}
+
+.special-fill {
+   fill: #df005c;
+}
+.special-stroke {
+   stroke: #f7e5ee;
+}
+
+.face-fill {
+   fill: #733054;
+}
+.face-fill-inner {
+   fill: #ffffff;
+}
+.face-stroke {
+   stroke: #733054;
+}
