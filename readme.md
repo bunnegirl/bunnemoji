@@ -12,6 +12,7 @@ you will find two versions of these emojis, trimmed which works well with discor
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunne.png"> | `:bunne:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunneangry.png"> | `:bunneangry:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunneaww.png"> | `:bunneaww:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunneawwheart.png"> | `:bunneawwheart:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunnecomf.png"> | `:bunnecomf:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunnecomfhappy.png"> | `:bunnecomfhappy:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/squared/bunnecomfidle.png"> | `:bunnecomfidle:` |
