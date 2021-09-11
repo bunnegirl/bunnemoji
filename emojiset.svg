@@ -7,7 +7,7 @@
    version="1.1"
    viewBox="0 0 2076 1726"
    id="svg6311"
-   sodipodi:docname="emoji.svg"
+   sodipodi:docname="emojiset.svg"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.41565"
-     inkscape:cx="807.16949"
-     inkscape:cy="955.13052"
+     inkscape:zoom="0.8313"
+     inkscape:cx="653.79526"
+     inkscape:cy="1761.0971"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -37,7 +37,8 @@
      inkscape:showpageshadow="false"
      units="px"
      scale-x="1" />
-  <style>@import url(emojiset.css);</style>
+  <style
+     id="style7505">@import url(emojiset.css);</style>
   <defs
      id="defs5900">
     <clipPath
@@ -150,6 +151,206 @@
        fx="82.514"
        fy="57.018002"
        r="13.891" />
+    <radialGradient
+       id="blush-radial-gradient-2-2"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-6-6" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-1-1" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-8-8" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-7-7" />
+    </radialGradient>
+    <radialGradient
+       id="blush-radial-gradient-0-9"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-9-2" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-3-0" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-6-2" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-0-3" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1629"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop1621" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop1623" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop1625" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop1627" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1639"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop1631" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop1633" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop1635" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop1637" />
+    </radialGradient>
+    <radialGradient
+       id="blush-radial-gradient-2-1"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-6-2" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-1-9" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-8-3" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-7-1" />
+    </radialGradient>
+    <radialGradient
+       id="blush-radial-gradient-0-94"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-9-7" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-3-8" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-6-4" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-0-5" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1955"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop1947" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop1949" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop1951" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop1953" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1965"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop1957" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop1959" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop1961" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop1963" />
+    </radialGradient>
   </defs>
   <g
      id="bunne"
@@ -1122,6 +1323,190 @@ type = &quot;static&quot;</desc>
          stroke-width="0.560041"
          id="path6098"
          style="stroke-width:2.11665612;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     id="bunnehappy-7"
+     transform="matrix(3.7795464,0,0,3.7795464,35,1785.0001)"
+     style="stroke-width:0.264582">
+    <desc
+       id="desc31084-5">name = &quot;wiggle&quot;
+type = &quot;animation&quot;</desc>
+    <g
+       id="g2131">
+      <desc
+         id="desc2144">type = &quot;frame&quot;
+delay = 80
+position = 1</desc>
+      <use
+         xlink:href="#background"
+         id="use15957-9"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#skin"
+         id="use6092-2"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#outline"
+         id="use6094-2"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#happy-eyes"
+         id="use6094-22"
+         x="0"
+         y="0" />
+      <g
+         id="g1929">
+        <path
+           class="body-fill-inner"
+           d="m 55.282781,36.873547 c 2.7763,-0.838871 6.984358,-3.859259 9.416294,-1.533555 2.356294,2.296354 0.461232,5.811668 -2.421782,8.254554 z"
+           id="path6293-3"
+           style="stroke-width:0.264582" />
+        <path
+           class="body-stroke"
+           d="m 56.044097,35.30988 c 2.776301,-0.838871 6.146182,-2.067366 8.578175,0.258256 2.356293,2.296354 1.780279,5.880441 -1.10265,8.323385"
+           fill="none"
+           stroke-width="0.560041"
+           id="path6295-6"
+           style="stroke-width:2.11666;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g2142">
+      <desc
+         id="desc2146">type = &quot;frame&quot;
+delay = 80
+position = 2</desc>
+      <use
+         xlink:href="#background"
+         id="use15957-9-0"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582"
+         transform="translate(92.603707)" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#skin"
+         id="use6092-2-3"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036"
+         transform="translate(92.603707)" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#outline"
+         id="use6094-2-6"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036"
+         transform="translate(92.603707)" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#happy-eyes"
+         x="0"
+         y="0"
+         id="use7722"
+         transform="translate(92.603707)" />
+      <g
+         id="g1929-3"
+         style="stroke-width:0.264582"
+         transform="rotate(-14.997611,95.663173,-300.02303)">
+        <path
+           class="body-fill-inner"
+           d="m 55.282781,36.873547 c 2.7763,-0.838871 6.984358,-3.859259 9.416294,-1.533555 2.356294,2.296354 0.461232,5.811668 -2.421782,8.254554 z"
+           id="path6293-3-2"
+           style="stroke-width:0.264582" />
+        <path
+           class="body-stroke"
+           d="m 56.044097,35.30988 c 2.776301,-0.838871 6.146182,-2.067366 8.578175,0.258256 2.356293,2.296354 1.780279,5.880441 -1.10265,8.323385"
+           fill="none"
+           stroke-width="0.560041"
+           id="path6295-6-0"
+           style="stroke-width:2.11666;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g3404"
+       transform="translate(185.20741)">
+      <desc
+         id="desc3384">type = &quot;frame&quot;
+delay = 80
+position = 3</desc>
+      <use
+         xlink:href="#background"
+         id="use3386"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#skin"
+         id="use3388"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#outline"
+         id="use3390"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#happy-eyes"
+         id="use7732"
+         x="0"
+         y="0" />
+      <g
+         id="g3402"
+         transform="rotate(3.3891882,22.821087,70.852154)">
+        <path
+           class="body-fill-inner"
+           d="m 55.282781,36.873547 c 2.7763,-0.838871 6.984358,-3.859259 9.416294,-1.533555 2.356294,2.296354 0.461232,5.811668 -2.421782,8.254554 z"
+           id="path3398"
+           style="stroke-width:0.264582" />
+        <path
+           class="body-stroke"
+           d="m 56.044097,35.30988 c 2.776301,-0.838871 6.146182,-2.067366 8.578175,0.258256 2.356293,2.296354 1.780279,5.880441 -1.10265,8.323385"
+           fill="none"
+           stroke-width="0.560041"
+           id="path3400"
+           style="stroke-width:2.11666;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
     </g>
   </g>
   <g
@@ -2107,7 +2492,7 @@ type = &quot;animated&quot;</desc>
       <desc
          id="desc32001">position = 0
 delay = 80
-type = "frame"</desc>
+type = &quot;frame&quot;</desc>
       <use
          xlink:href="#background"
          id="use26092"
@@ -2156,7 +2541,7 @@ type = "frame"</desc>
       <desc
          id="desc32003">position = 1
 delay = 80
-type = "frame"</desc>
+type = &quot;frame&quot;</desc>
       <use
          xlink:href="#background"
          id="use26718"
@@ -2195,7 +2580,7 @@ type = "frame"</desc>
       <desc
          id="desc32005">position = 2
 delay = 80
-type = "frame"</desc>
+type = &quot;frame&quot;</desc>
       <use
          xlink:href="#background"
          id="use27701"
@@ -2227,7 +2612,7 @@ type = "frame"</desc>
       <desc
          id="desc32007">position = 3
 delay = 80
-type = "frame"</desc>
+type = &quot;frame&quot;</desc>
       <use
          xlink:href="#background"
          id="use27707"
