@@ -4,41 +4,41 @@
 }
 
 .body-fill {
-   fill: #733054;
+   fill: #734030;
 }
 .body-fill-inner {
    fill: #ffffff;
 }
 .body-stroke {
-   stroke: #733054;
+   stroke: #734030;
 }
 .body-stroke-inner {
    stroke: #ffffff;
 }
 
 .blanket-fill {
-   fill: #764f69;
+   fill: #484e61;
 }
 
 .special-fill {
-   fill: #f7e5ee;
+    fill: #f7e5ee;
 }
 .special-fill-inner {
-   fill: #df005c;
+    fill: #ca0d0d;
 }
 
 .brows-stroke {
-   stroke: #733054;
+   stroke: #734030;
 }
 
 .eyes-fill {
-   fill: #733054;
+   fill: #734030;
 }
 .eyes-fill-inner {
    fill: #ffffff;
 }
 .eyes-stroke {
-   stroke: #733054;
+   stroke: #734030;
 }
 
 .tears-fill {
@@ -46,22 +46,22 @@
 }
 
 .mouth-stroke {
-   stroke: #733054;
+   stroke: #734030;
 }
 
 .blush-stop-1 {
-    stop-color:#7f2455;
+    stop-color:#7f3e24;
     stop-opacity: 1;
 }
 .blush-stop-2 {
-    stop-color:#b44b83;
+    stop-color:#b4644b;
     stop-opacity: 1;
 }
 .blush-stop-3 {
-    stop-color:#c16b99;
+    stop-color:#c17f6b;
     stop-opacity: 0.25;
 }
 .blush-stop-4 {
-    stop-color:#e4bdd2;
+    stop-color:#e4c6bd;
     stop-opacity: 0;
 }

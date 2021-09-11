@@ -1,0 +1,27 @@
+[emojiset]
+name = "bunnemoji"
+document = "emojiset.svg"
+stylesheet = "emojiset.css"
+
+[[themes]]
+name = "bunne"
+prefix = "bunne"
+stylesheet = "themes/bunne.css"
+
+[[themes]]
+name = "bunne classic"
+prefix = "bunnecl"
+stylesheet = "themes/classic.css"
+
+[[themes]]
+name = "warebunne"
+prefix = "warebunne"
+stylesheet = "themes/warebunne.css"
+
+[[outputs]]
+trim = false
+directory = "original"
+
+[[outputs]]
+trim = true
+directory = "trimmed"
