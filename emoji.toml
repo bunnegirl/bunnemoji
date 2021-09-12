@@ -11,25 +11,25 @@ output = "readme.md"
 input = "themes.tpl"
 output = "themes.md"
 
-[[themes]]
+[[theme]]
 name = "bunne"
 prefix = "bunne"
 stylesheet = "themes/bunne.css"
 
-[[themes]]
+[[theme]]
 name = "bunne classic"
 prefix = "bunnecl"
 stylesheet = "themes/classic.css"
 
-[[themes]]
+[[theme]]
 name = "warebunne"
 prefix = "warebunne"
 stylesheet = "themes/warebunne.css"
 
-[[outputs]]
+[[output]]
 trim = false
 directory = "original"
 
-[[outputs]]
+[[output]]
 trim = true
 directory = "trimmed"
