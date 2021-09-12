@@ -22,4 +22,4 @@ this project was built using <a href="https://github.com/bunnegirl/emoji-crafter
 
 ## themes
 
-aside from the bunne theme, additional themes are available, {{ for theme in themes }}{{ if not @first }}{theme.name}{{ if not @last}} and {{ endif}}{{ endif }}{{ endfor }}.
+aside from the bunne theme, <a href="themes.md">additional themes are available</a>, {{ for theme in themes }}{{ if not @first }}{theme.name}{{ if not @last}} and {{ endif}}{{ endif }}{{ endfor }}.
