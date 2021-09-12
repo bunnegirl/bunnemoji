@@ -3,6 +3,10 @@ name = "bunnemoji"
 document = "emojiset.svg"
 stylesheet = "emojiset.css"
 
+[[template]]
+input = "readme.tpl"
+output = "readme.md"
+
 [[themes]]
 name = "bunne"
 prefix = "bunne"
