@@ -11,8 +11,14 @@ this project was built using <a href="https://github.com/bunnegirl/emoji-crafter
 
 | Emoji | Name |
 | --- | --- |
-{{ for emoji in emojis }}| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunne{emoji.name}.png"> | `:bunne{emoji.name}:` |
-{{ endfor }}
+{{ for emoji in emojis -}}
+    {{ if emoji.is_animation -}}
+        | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunne{emoji.name}.webp"> | `:bunne{emoji.name}:` |
+    {{- else -}}
+        | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunne{emoji.name}.png"> | `:bunne{emoji.name}:` |
+    {{- endif }}
+    {-newline-}
+{{- endfor }}
 
 ## themes
 
