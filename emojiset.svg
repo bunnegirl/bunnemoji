@@ -8,7 +8,7 @@
    viewBox="0 0 2076 1726"
    id="svg6311"
    sodipodi:docname="emojiset.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.8313"
-     inkscape:cx="653.79526"
-     inkscape:cy="1761.0971"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.82"
+     inkscape:cx="1190.2439"
+     inkscape:cy="907.92683"
+     inkscape:window-width="1243"
+     inkscape:window-height="1006"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg6311"
      showborder="true"
      inkscape:showpageshadow="false"
@@ -1809,13 +1809,14 @@ type = &quot;static&quot;</desc>
          stop-color="#000000"
          id="path6160"
          style="stroke-width:0.0700036" />
-      <path
-         class="eyes-fill"
-         transform="scale(0.26458)"
-         d="M 99.002,175.83 A 12.5,12.5 0 0 0 93,186.5 a 12.5,12.5 0 0 0 12.5,12.5 12.5,12.5 0 0 0 10.885,-6.3594 z"
-         stop-color="#000000"
-         id="path6162"
-         style="stroke-width:0.0700036" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path6160"
+         id="use1847"
+         transform="matrix(-1,0,0,1,41.012695,-1.4121602e-7)"
+         width="100%"
+         height="100%" />
     </g>
     <path
        id="sad-mouth"
