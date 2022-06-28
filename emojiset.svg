@@ -8,7 +8,7 @@
    viewBox="0 0 2076 1726"
    id="svg6311"
    sodipodi:docname="emojiset.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,19 +24,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.82"
-     inkscape:cx="1190.2439"
-     inkscape:cy="907.92683"
-     inkscape:window-width="1243"
-     inkscape:window-height="1006"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6311"
+     inkscape:zoom="1.1596551"
+     inkscape:cx="2231.698"
+     inkscape:cy="2145.4655"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="bunnesquirm"
      showborder="true"
      inkscape:showpageshadow="false"
      units="px"
-     scale-x="1" />
+     scale-x="1"
+     inkscape:deskcolor="#363636">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5381" />
+  </sodipodi:namedview>
   <style
      id="style7505">@import url(emojiset.css);</style>
   <defs
@@ -350,6 +355,356 @@
          class="blush-stop-4"
          offset="1"
          id="stop1963" />
+    </radialGradient>
+    <radialGradient
+       id="blush-radial-gradient-2-6"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-6-7" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-1-5" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-8-35" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-7-6" />
+    </radialGradient>
+    <radialGradient
+       id="blush-radial-gradient-0-2"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop5888-9-9" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop5890-3-1" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop5892-6-27" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop5894-0-0" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2628"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2620" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2622" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2624" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2626" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2638"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2630" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2632" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2634" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2636" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2648"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2640" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2642" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2644" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2646" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2658"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2650" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2652" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2654" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2656" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2668"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2660" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2662" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2664" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2666" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2678"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2670" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2672" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2674" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2676" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2688"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2680" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2682" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2684" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2686" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2698"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2690" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2692" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2694" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2696" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2708"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2700" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2702" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2704" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2706" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2718"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2710" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2712" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2714" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2716" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2728"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1904,0,0,1.1904,-59.729059,-10.856921)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2720" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2722" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2724" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2726" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2738"
+       cx="82.514"
+       cy="57.018002"
+       r="13.891"
+       gradientTransform="matrix(1.1880657,0.07451188,-0.07405549,1.1807888,-91.296889,-16.457264)"
+       gradientUnits="userSpaceOnUse"
+       fx="82.514"
+       fy="57.018002">
+      <stop
+         class="blush-stop-1"
+         offset="0"
+         id="stop2730" />
+      <stop
+         class="blush-stop-2"
+         offset=".26528"
+         id="stop2732" />
+      <stop
+         class="blush-stop-3"
+         offset=".73511"
+         id="stop2734" />
+      <stop
+         class="blush-stop-4"
+         offset="1"
+         id="stop2736" />
     </radialGradient>
   </defs>
   <g
@@ -2649,6 +3004,401 @@ type = &quot;frame&quot;</desc>
          x="0"
          y="0"
          style="stroke-width:0.0700036" />
+    </g>
+  </g>
+  <g
+     id="bunnesquirm"
+     transform="matrix(3.7795464,0,0,3.7795464,-665.00003,2135)"
+     style="stroke-width:0.264582">
+    <desc
+       id="desc30788-3">name = &quot;squish&quot;
+type = &quot;animated&quot;</desc>
+    <g
+       id="bunnehop-frame-4-8"
+       transform="translate(185.20742)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc32007-9">position = 1
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use27707-7"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#outline"
+         id="use6301-3"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#skin"
+         id="use6303-6"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+      <use
+         width="100%"
+         height="100%"
+         display="inline"
+         xlink:href="#eyes"
+         id="use6305-1"
+         x="0"
+         y="0"
+         style="stroke-width:0.0700036" />
+    </g>
+    <g
+       id="g5660"
+       transform="translate(277.81113)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc5650">position = 2
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use5652"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g5665"
+         transform="matrix(1,0,0,0.95845494,0,2.8061102)"
+         style="stroke-width:0.270255">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use5654"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use5656"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use5658"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+      </g>
+    </g>
+    <g
+       id="g5679"
+       transform="translate(370.41483)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc5667">position = 3
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use5669"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g5677"
+         transform="matrix(1,0,0,0.91548251,0,5.7086308)"
+         style="stroke-width:0.276525">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use5671"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use5673"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use5675"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+      </g>
+    </g>
+    <g
+       id="g6184"
+       transform="translate(463.01853)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc6172">position = 4
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use6174"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g6182"
+         transform="matrix(1,0,0,0.85731272,0,9.6376387)"
+         style="stroke-width:0.285752">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use6176"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use6178"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use6180"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+      </g>
+    </g>
+    <g
+       id="g6696"
+       transform="translate(555.62224)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc6684">position = 5
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use6686"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g6694"
+         transform="matrix(1,0,0,0.80026803,0,13.490653)"
+         style="stroke-width:0.295761">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use6688"
+           x="0"
+           y="0"
+           style="stroke-width:0.0782534" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use6690"
+           x="0"
+           y="0"
+           style="stroke-width:0.0782534" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use6692"
+           x="0"
+           y="0"
+           style="stroke-width:0.0782534" />
+      </g>
+    </g>
+    <g
+       id="g6710"
+       transform="translate(648.22594)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc6698">position = 6
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use6700"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g6708"
+         transform="matrix(1,0,0,0.85731272,0,9.6376387)"
+         style="stroke-width:0.285752">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use6702"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use6704"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use6706"
+           x="0"
+           y="0"
+           style="stroke-width:0.0756051" />
+      </g>
+    </g>
+    <g
+       id="g6724"
+       transform="translate(740.82965)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc6712">position = 7
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use6714"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g6722"
+         transform="matrix(1,0,0,0.91548251,0,5.7086308)"
+         style="stroke-width:0.276525">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use6716"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use6718"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use6720"
+           x="0"
+           y="0"
+           style="stroke-width:0.0731637" />
+      </g>
+    </g>
+    <g
+       id="g6738"
+       transform="translate(833.43335)"
+       style="stroke-width:0.264582">
+      <desc
+         id="desc6726">position = 8
+delay = 80
+type = &quot;frame&quot;</desc>
+      <use
+         xlink:href="#background"
+         id="use6728"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="stroke-width:0.264582" />
+      <g
+         id="g6736"
+         transform="matrix(1,0,0,0.95845494,0,2.8061102)"
+         style="stroke-width:0.270255">
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#outline"
+           id="use6730"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#skin"
+           id="use6732"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+        <use
+           width="100%"
+           height="100%"
+           display="inline"
+           xlink:href="#eyes"
+           id="use6734"
+           x="0"
+           y="0"
+           style="stroke-width:0.0715047" />
+      </g>
     </g>
   </g>
 </svg>

@@ -38,6 +38,7 @@ this project was built using <a href="https://github.com/bunnegirl/emoji-crafter
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnecomfsleep.png"> | `:bunnecomfsleep:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnecomfidle.png"> | `:bunnecomfidle:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnehop.webp"> | `:bunnehop:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnesquish.webp"> | `:bunnesquish:` |
 
 
 ## themes

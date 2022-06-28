@@ -30,6 +30,7 @@
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnecomfsleep.png"> | `:bunnecomfsleep:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnecomfidle.png"> | `:bunnecomfidle:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnehop.webp"> | `:bunnehop:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne/bunnesquish.webp"> | `:bunnesquish:` |
 
 
 ## bunne classic theme
@@ -63,6 +64,7 @@
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne classic/bunneclcomfsleep.png"> | `:bunneclcomfsleep:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne classic/bunneclcomfidle.png"> | `:bunneclcomfidle:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne classic/bunneclhop.webp"> | `:bunneclhop:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/bunne classic/bunneclsquish.webp"> | `:bunneclsquish:` |
 
 
 ## warebunne theme
@@ -96,3 +98,4 @@
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/warebunne/warebunnecomfsleep.png"> | `:warebunnecomfsleep:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/warebunne/warebunnecomfidle.png"> | `:warebunnecomfidle:` |
 | <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/warebunne/warebunnehop.webp"> | `:warebunnehop:` |
+| <img width="48" height="48" src="https://github.com/bunnegirl/bunnemoji/blob/master/original/warebunne/warebunnesquish.webp"> | `:warebunnesquish:` |
